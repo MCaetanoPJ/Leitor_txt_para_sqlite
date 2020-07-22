@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Importar_TXT_para_SQLite", "Importar_TXT_para_SQLite\Importar_TXT_para_SQLite.csproj", "{A5F95F8B-E2CE-4CF8-8D1A-8299A7B67648}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5F95F8B-E2CE-4CF8-8D1A-8299A7B67648}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5F95F8B-E2CE-4CF8-8D1A-8299A7B67648}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5F95F8B-E2CE-4CF8-8D1A-8299A7B67648}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5F95F8B-E2CE-4CF8-8D1A-8299A7B67648}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
